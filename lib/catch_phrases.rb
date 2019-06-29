@@ -11,6 +11,5 @@ def  link
   puts link
 end
 def any_phrase
-  phrase= a barrel roll
-
+  any_phrase= a barrel roll
 end
