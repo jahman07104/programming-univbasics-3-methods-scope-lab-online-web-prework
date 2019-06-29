@@ -1,11 +1,11 @@
-def phrase
+def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
   phrase="its a me Mario"
 end
-phrase
+
 def toadstool
-  puts status
+  puts $status
 end 
 def
 
@@ -13,6 +13,5 @@ def
 end
 def "any phrase"
   phrase= a barrel roll
-end 
-phrase
+
 end
