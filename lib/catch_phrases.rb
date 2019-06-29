@@ -6,13 +6,10 @@ def mario
 def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
-  
-end 
-def
 
   toadstool="its Dnagerous to GO alone! take this"
 end
-def "any phrase"
+def any_phrase
   phrase= a barrel roll
 
 end
