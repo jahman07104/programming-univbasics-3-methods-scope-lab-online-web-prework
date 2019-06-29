@@ -7,7 +7,7 @@ phrase
 def toadstool
   puts status
 end 
-
+def
 
   toadstool="its Dnagerous to GO alone! take this"
 end
